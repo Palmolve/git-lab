@@ -50,4 +50,94 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 
 4. 
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	README.md
+	answers.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+5. 
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	answers.md
+
+6. 
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+7. 
+On branch master
+nothing to commit, working tree clean
+
+8. 
+commit bbf4e8e42c104130839b87cf95be11f87cee39b5 (HEAD -> master)
+Author: Sam Keller <sk209420@ohio.edu>
+Date:   Wed Sep 7 16:47:26 2022 -0400
+
+    Initial commit
+9. 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+10. 
+Authenticated to github.com ([140.82.113.4]:22).
+Transferred: sent 2204, received 2576 bytes, in 0.2 seconds
+Bytes per second: sent 11993.0, received 14017.2
+To github.com:Palmolve/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'git@github.com:Palmolve/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+11. 
+Authenticated to github.com ([140.82.114.3]:22).
+Transferred: sent 2204, received 2576 bytes, in 0.3 seconds
+Bytes per second: sent 6803.0, received 7951.2
+Everything up-to-date
+
+12. 
+skeller@odd33:~/git-lab$ cat README.md
+Sam Keller
+Palmolve
+CS 2400, 102
+
+13. 
+.  ..  answers.md  DEADJOE  .git  git-lab-2  README.md
+
+
+
 
